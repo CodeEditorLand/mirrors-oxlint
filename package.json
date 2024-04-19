@@ -3,6 +3,9 @@
 	"version": "0.0.1",
 	"private": false,
 	"description": "Note: double curly-braces because python .format",
+	"keywords": [
+		"land"
+	],
 	"homepage": "HTTPS://GitHub.Com/CodeEditorLand/MirrorsOxlint#readme",
 	"bugs": {
 		"url": "HTTPS://GitHub.Com/CodeEditorLand/MirrorsOxlint/issues"
