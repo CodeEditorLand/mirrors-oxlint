@@ -1,11 +1,5 @@
 {
-	"name": "placeholder_package",
-	"description": "Note: double curly-braces because python .format",
-	"scripts": {
-		"Document": "Document 'Source/**/*.ts'",
-		"prepublishOnly": "Build 'Source/**/*.ts'"
-	},
-	"devDependencies": {
-		"@playform/build": "0.0.7"
-	}
+    "name": "placeholder_package",
+    "description": "Note: double curly-braces because python .format",
+    "version": "0.0.0"
 }
