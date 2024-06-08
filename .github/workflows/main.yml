@@ -1,7 +1,7 @@
 name: main
 on:
   push:
-    branches: [main]
+    branches: [Current]
   schedule:
     - cron: "15 8 * * *"
 
