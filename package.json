@@ -1,4 +1,4 @@
 {
-	"name": "placeholder_package",
-	"description": "Note: double curly-braces because python .format"
+	"description": "Note: double curly-braces because python .format",
+	"name": "placeholder_package"
 }
